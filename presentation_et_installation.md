@@ -1,7 +1,10 @@
 # Présentation & installation
 ## Outils de supervision de réseau de serveurs DHCP
-![Schema du réseau d'exemple](image.png)
+![Schéma du réseau d'exemple](image.png)
 
+*(Schéma de représentation de l'architecture type du réseau)*
+
+---
 Le produit a pour but de **simplifier l'administration** d'un réseau d'entreprise qui repose sur plusieurs serveurs dhcp.
 
 Il est fournit un ensemble de **4 commandes** exécutables sur un serveur central qui permettent de manager à distance les différents serveurs dhcp.
